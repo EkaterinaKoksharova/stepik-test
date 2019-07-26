@@ -2,8 +2,8 @@
 stepik test
  
 
-CHANGES
-
+Repository for stepik-course.
+https://stepik.org/lesson/187065/
 
 
 
